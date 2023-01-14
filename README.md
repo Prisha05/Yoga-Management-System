@@ -1,1 +1,1 @@
-# Yoga-Management-Sysytem
+# Yoga-Management-website
